@@ -3,7 +3,7 @@
 #include <utility>
 #include <vector>
 
-#include "solution.h"
+#include "fast_solution.h"
 
 int main()
 {
